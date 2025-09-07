@@ -1,8 +1,44 @@
 {
-  "login_button_title": {
-    "ko": "로그인 해주세요",
-    "en": "Log in",
-    "ja": "ログイン",
-    "zh": "登录"
-  }
+"login_button_title": {
+  "ko": 로그인 해주세요,
+  "en": Log in,
+  "ja":  ログイン,
+  "zh": 登录
+}
+"placeholder_select_your_company": {
+  "ko": 회사를 선택해주세요,
+  "en": Select your company,
+  "ja":  会社を選択してください,
+  "zh": 请选择您的公司
+}
+"placeholder_enter_your_email_id": {
+  "ko": 이메일 @ 앞 부분의 아이디를 입력하세요,
+  "en": Enter your email ID before the @ symbol,
+  "ja":  @記号の手前のIDを入力してください,
+  "zh": 请输入邮箱@符号之前的ID
+}
+"error_passwords_do_not_match": {
+  "ko": 비밀번호가 일치하지 않습니다.,
+  "en": Passwords don't match.,
+  "ja":  パスワードが一致しません。,
+  "zh": 密码不匹配。
+}
+"error_enter_your_id": {
+  "ko": 아이디를 입력해주세요.,
+  "en": Please enter your ID.,
+  "ja":  IDを入力してください。,
+  "zh": 请输入您的ID。
+}
+"error_enter_password": {
+  "ko": 비밀번호를 입력해주세요,
+  "en": Enter your password,
+  "ja":  パスワードを入力してください,
+  "zh": 请输入密码
+}
+"error_network_connection_failed": {
+  "ko": 네트워크 연결에 실패했습니다.,
+  "en": Network connection failed.,
+  "ja":  ネットワーク接続に失敗しました。,
+  "zh": 网络连接失败。
+}
 }
