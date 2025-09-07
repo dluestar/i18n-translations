@@ -41,4 +41,10 @@
   "ja":  ネットワーク接続に失敗しました。,
   "zh": 网络连接失败。
 }
+"button_change_password": {
+  "ko": 비밀번호 변경,
+  "en": Change Password,
+  "ja":  パスワード変更,
+  "zh": 更改密码
+}
 }
