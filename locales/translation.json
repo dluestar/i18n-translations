@@ -5,9 +5,9 @@
   "ja": ログイン,
   "zh": 登录
 }
-"placeholder_select_your_company": {
+"info_select_company": {
   "ko": 회사를 선택해주세요,
-  "en": Select your company,
+  "en": Please select your company,
   "ja": 会社を選択してください,
   "zh": 请选择您的公司
 }
