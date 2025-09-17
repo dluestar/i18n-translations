@@ -38,7 +38,7 @@
 "button_reset_password": {
   "ko": 비밀번호 초기화,
   "en": Reset Password,
-  "ja": パスワード再設定,
+  "ja": パスワードをリセット,
   "zh": 重置密码
 }
 }
