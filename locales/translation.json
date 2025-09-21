@@ -41,4 +41,34 @@
   "ja": パスワード再設定,
   "zh": 重置密码
 }
+"title_import_group": {
+  "ko": 그룹가져오기,
+  "en": Import Group,
+  "ja": グループインポート,
+  "zh": 导入群组
+}
+"info_load_saved_groups": {
+  "ko": 그룹 목록 파일저장한 그룹을 가져올 수 있습니다,
+  "en": You can import saved groups from the group list file.,
+  "ja": グループリストファイルから保存済みのグループをインポートできます。,
+  "zh": 您可以从分组列表文件导入已保存的分组。
+}
+"form_select_group_file": {
+  "ko": 가져올 그룹 파일을 선택해 주세요.,
+  "en": Please select the group file to import.,
+  "ja": インポートするグループファイルを選択してください。,
+  "zh": 请选择要导入的群组文件。
+}
+"info_max_group_members": {
+  "ko": 그룹당 인원은 최대 30명까지만 추가됩니다.,
+  "en": A maximum of 30 members can be added per group.,
+  "ja": グループごとに最大30名まで追加できます。,
+  "zh": 每个小组最多可添加30名成员。
+}
+"info_replace_all_groups": {
+  "ko": 모두 바꾸기 버튼은 기존의 그룹은 모두 사라지고 새로 가져오는 그룹으로 변경됩니다.,
+  "en": The Replace All button removes all existing groups and replaces them with the newly imported groups.,
+  "ja": 「すべて置き換える」ボタンを押すと、既存のグループはすべて削除され、新しくインポートしたグループに置き換えられます。,
+  "zh": “全部替换”按钮会移除所有现有分组，并将其替换为新导入的分组。
+}
 }
