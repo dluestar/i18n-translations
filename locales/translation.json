@@ -1,10 +1,4 @@
 {
-"info_select_company": {
-  "ko": 회사를 선택해주세요,
-  "en": Please select your company,
-  "ja": 会社を選択してください,
-  "zh": 请选择您的公司
-}
 "form_input_email_id": {
   "ko": 이메일 @ 앞 부분의 아이디를 입력하세요.,
   "en": Enter your email ID before the @ symbol.,
@@ -57,6 +51,6 @@
   "ko": 로그아웃,
   "en": Log Out,
   "ja": ログアウト,
-  "zh": 退出登录
+  "zh": 登出
 }
 }
